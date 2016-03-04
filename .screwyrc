@@ -1,0 +1,8 @@
+{
+  "name": "Super Cool React Thing",
+  "primary": ["bundle"],
+  "exclude": ["screwy"],
+  "watch": {
+    "components/": "bundle"
+  }
+}
